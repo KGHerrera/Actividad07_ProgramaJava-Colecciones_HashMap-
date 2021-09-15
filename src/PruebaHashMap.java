@@ -72,9 +72,10 @@ public class PruebaHashMap {
 			 mapAlumnos.put(i, new Alumno(nombre, edad, carrera, fecha)); 
 		}*/
 		
+		/*
 		for (Entry<Integer, Alumno> alumno : mapAlumnos.entrySet()) {
 		    System.out.println("Key = " + alumno.getKey() + ", Value = " + alumno.getValue());
-		}
+		} */
 		
 		do {
 			System.out.println("\nElige una de las siguientes opciones");
